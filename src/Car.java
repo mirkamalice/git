@@ -6,6 +6,8 @@ public class Car {
     Car(){
         weight = 500;
         color = "White";
+
+
         
         name = "Fride";
     }
